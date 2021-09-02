@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886767779005",
+    "project_id": "ecommerce-6e389",
+    "storage_bucket": "ecommerce-6e389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886767779005:android:a8b30e78996a1ae7d9cbd4",
+        "android_client_info": {
+          "package_name": "com.rizkyalkus.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886767779005-i192lbfvge0s3bnkijgs3pt44t3u5ran.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rizkyalkus.ecommerceapp",
+            "certificate_hash": "f2665ebb602498bb4ab6d42818af7272949a369e"
+          }
+        },
+        {
+          "client_id": "886767779005-v8gaj7jkv65r428oric75ghvvbam84fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvuaJqDPityu80MXrxNb_r5XLmx_SNEXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886767779005-v8gaj7jkv65r428oric75ghvvbam84fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
